@@ -1,16 +1,10 @@
 # mobilt_java23_nikolina_vikberg_flutter_v2
 
-A new Flutter project.
+Flutter project for mobil development
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_20240919_112635](https://github.com/user-attachments/assets/a315eb17-a516-4d69-9121-53be06429abc)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240919_112654](https://github.com/user-attachments/assets/c6c96e7d-f179-445d-8124-8b819d08295c)
