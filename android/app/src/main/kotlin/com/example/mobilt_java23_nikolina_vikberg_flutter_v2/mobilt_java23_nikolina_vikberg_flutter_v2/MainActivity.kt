@@ -1,0 +1,5 @@
+package com.example.mobilt_java23_nikolina_vikberg_flutter_v2.mobilt_java23_nikolina_vikberg_flutter_v2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
