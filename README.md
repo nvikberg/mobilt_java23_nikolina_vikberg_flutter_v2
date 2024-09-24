@@ -1,6 +1,6 @@
 # Flutter Project, Mobile App Developement
 
-## A small project created in Android Studio (Flutter) written with Dart using iteractive widgets and activitys
+## A small project created in Android Studio (Flutter) written with Dart using interactive widgets and activitys
 
 ### Nikolina Vikberg, Grit Academy Malmö
 
