@@ -1,6 +1,8 @@
-# mobilt_java23_nikolina_vikberg_flutter_v2
+# Flutter Project, Mobile App Developement
 
-Flutter project for mobil development with interactive widgets 
+## A small project created in Android Studio (Flutter) written with Dart using iteractive widgets and activitys
+
+### Nikolina Vikberg, Grit Academy Malmö
 
 First page
 ![Screenshot_20240919_125059](https://github.com/user-attachments/assets/ffeb3e1a-72c6-4a0d-8d55-056cb4d17012)
