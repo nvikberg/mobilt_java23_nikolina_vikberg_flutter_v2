@@ -2,7 +2,7 @@
 
 ## A small project created in Android Studio (Flutter) written with Dart using interactive widgets and activitys
 
-### Nikolina Vikberg, Grit Academy Malmö
+### By Nikolina Vikberg, Grit Academy Malmö
 
 Interactive widgets used:
 - Floating action button
