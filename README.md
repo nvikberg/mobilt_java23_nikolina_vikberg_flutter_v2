@@ -4,7 +4,7 @@
 
 ### Nikolina Vikberg, Grit Academy Malmö
 
-*Interactive widgets used:
+Interactive widgets used:
 - Floating action button
 - TextFormField
 - Filled Button
@@ -17,7 +17,7 @@ Layouts used:
 - ListView
 - Padding
 
-- Other features:
+Other features:
 - Image - jag har url adresser från webben på båda activities
 - Navigator - Navigator används för att byta mellan sidorna
 - Appicon - En lotus blomma på både appen och webben.
